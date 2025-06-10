@@ -10,8 +10,7 @@
 
 
 ## 👉 Sobre mí
-Soy un **Asesor de MicroProyecto Familiar Sostenible**, **Desarrollador Web + IA Aplicada** y **Profesor** centrado en ayudar a personas, familias y empresas a ir de su idea de MicroProyecto Sostenible a la Acción con uso de tecnologias y de la IA.
-Al mismo tiempo **creo contenidos para mis RRSS y [Youtube](https://www.youtube.com/channel/UC19BC9ec0iLs1e_XgOdYo8g)**.
+Soy un Desarrollador de Proyectos Sustentables, Profesor, Secretario Nacional y Director de Proyetos Sustentables en la fundación Ecu@verde.com, centrado en el desarrollo de microproyectos sustentables combinados con páginas web, embudos automatizados de ventas, como aplicaciones y uso de IA. Al mismo tiempo grabo y publico vídeos en [Youtube](https://www.youtube.com/channel/UC19BC9ec0iLs1e_XgOdYo8g), hago directos en Twitch y trucos rápidos en TikTok, escribo Artículos para mi blog, y creo contenidos para mis otras RRSS. Paralelamente soy un apasionado de la Teología Bíblica y enseño a grupos de interés común a encontrar respuestas bíblicas de Dios a las preguntas cotidianas del Hombre.
 
 
 ## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UC19BC9ec0iLs1e_XgOdYo8g) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
