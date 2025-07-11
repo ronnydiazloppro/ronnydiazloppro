@@ -16,22 +16,22 @@ En mi rol como Secretario Nacional, Director de Proyectos Sustentables, Desarrol
 
 ## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UC19BC9ec0iLs1e_XgOdYo8g) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
 <a href='https://www.youtube.com/watch?v=j6RZqCe4hTs' title="Aplicando el método LEAN Startup en tu MICROPROYECTO PERSONAL - ver en Youtube" target='_blank'>
-  <img width='32%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu MICROPROYECTO PERSONAL' />
+  <img width='32%'  src='https://i3.ytimg.com/vi/1.jpg' alt='Aplicando el método LEAN Startup en tu MICROPROYECTO PERSONAL' />
 </a>
 <a href='https://www.youtube.com/watch?v=1hDGvWJXzqM' title="Ronny Diaz y el desarrollo web en MicroProyectos Sostenibles - ver en Youtube" target='_blank'>
-  <img width='32%'  src='https://i3.ytimg.com/vi/1hDGvWJXzqM/maxresdefault.jpg' alt='Ronny Diaz y el desarrollo web en MicroProyectos Sostenibles' />
+  <img width='32%'  src='https://i3.ytimg.com/vi/2.jpg' alt='Ronny Diaz y el desarrollo web en MicroProyectos Sostenibles' />
 </a>
 <a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GITHUB y El Señor de los MicroProyectos Sostenibles - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://img.youtube.com/vi/GC_V4NeWbOs/maxresdefault.jpg' alt='GITHUB y El Señor de los MicroProyectos Sostenibles' />
+  <img width='32%' src='https://img.youtube.com/vi/3.jpg' alt='GITHUB y El Señor de los MicroProyectos Sostenibles' />
 </a>
 <a href='https://www.youtube.com/watch?v=-chk3tKvNLI' title="Setup para el Desarrollo de MicroProyectos Sostenibles y Web 2025 - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://img.youtube.com/vi/-chk3tKvNLI/maxresdefault.jpg' alt='Setup para el Desarrollo de MicroProyectos Sostenibles y Web 2025' />
+  <img width='32%' src='https://img.youtube.com/vi/4.jpg' alt='Setup para el Desarrollo de MicroProyectos Sostenibles y Web 2025' />
 </a>
 <a href='https://www.youtube.com/watch?v=WCUASu4V258' title="Analizando la metodologia de MicroProyectos Sostenibles Hardvard - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://i3.ytimg.com/vi/WCUASu4V258/maxresdefault.jpg' alt='Analizando la metodologia de MicroProyectos Sostenibles Hardvard' />
+  <img width='32%' src='https://i3.ytimg.com/vi/5.jpg' alt='Analizando la metodologia de MicroProyectos Sostenibles Hardvard' />
 </a>
 <a href='https://www.youtube.com/watch?v=P51PMs0sKys' title="Charlas de desarrollo de MicroProyectos Sostenibles con Código Bíblico - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://i3.ytimg.com/vi/P51PMs0sKys/maxresdefault.jpg' alt='Charlas de desarrollo de MicroProyectos Sostenibles con Código Bíblico' />
+  <img width='32%' src='https://i3.ytimg.com/vi/6.jpg' alt='Charlas de desarrollo de MicroProyectos Sostenibles con Código Bíblico' />
 </a>
 
 
