@@ -36,6 +36,6 @@ En mi rol como Secretario Nacional, Director de Proyectos Sustentables, Desarrol
 
 
 ## 📝 Artículos de mi web [ronnydiazlpro/blog](https://ronnydiazlpro/blog/):
-- [Qué demandan las organizaciones financiadoras](https://ronnydiazlpro/blog/https://eduardofierro.pro/blog/que-demandan-las-empresas/)
+- [Qué demandan las organizaciones financiadoras](https://ronnydiazlpro/blog/que-demandan-las-empresas/)
 - [Cómo iniciar tu propio Blog para dar a conocer tu Proyecto](https://ronnydiazlpro/blog/como-iniciar-tu-propio-blog/)
 - [Que se trabaja en MicroProyectos Sostenibles y Web. Nivel Junior](https://ronnydiazlpro/blog/que-se-trabaja-en-programacion-web/)
