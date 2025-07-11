@@ -15,27 +15,27 @@ Con más de una década de experiencia en el ámbito del diseño y desarrollo de
 En mi rol como Secretario Nacional, Director de Proyectos Sustentables, Desarrollador Web y Marketing Automatizado y Profesor en la [fundación Ecu@verde.com](https://fundacionecuaverde.com/), y CEO de mi propio emprendimiento RDLServiciosIT, me dedico a guiar a familias rurales en su implementación y diseño de proyectos sustentables, compartiendo conocimientos en diseño de proyectos y/o pequeños emprendimientos sustentables, desarrollo web wordpress, embudos de ventas automatizados, aplicaciones python con IA aplicada y educación de nuestro público objetivo. El trabajo en equipo y la colaboración son la base de nuestro éxito, lo que nos permite contribuir a la formación y mejoramiento de la calidad de vida de nuestro público objetivo en la industria del desarrollo de proyectos sustentables, el emprendimiento online y el marketing automatizado. Mi compromiso es con la innovación, la sustentabilidad y la excelencia en cada proyecto, asesoría y curso o seminario que desarrollo o imparto.  
 
 ## 📹 Vídeos favoritos de mi [Youtube](https://www.youtube.com/channel/UC19BC9ec0iLs1e_XgOdYo8g) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
-<a href='https://www.youtube.com/watch?v=j6RZqCe4hTs' title="Aplicando el método LEAN Startup en tu MICROPROYECTO PERSONAL - ver en Youtube" target='_blank'>
+<a href='https://www.youtube.com/watch?1' title="Aplicando el método LEAN Startup en tu MICROPROYECTO PERSONAL - ver en Youtube" target='_blank'>
   <img width='32%'  src='https://i3.ytimg.com/vi/1.jpg' alt='Aplicando el método LEAN Startup en tu MICROPROYECTO PERSONAL' />
 </a>
-<a href='https://www.youtube.com/watch?v=1hDGvWJXzqM' title="Ronny Diaz y el desarrollo web en MicroProyectos Sostenibles - ver en Youtube" target='_blank'>
+<a href='https://www.youtube.com/watch?2' title="Ronny Diaz y el desarrollo web en MicroProyectos Sostenibles - ver en Youtube" target='_blank'>
   <img width='32%'  src='https://i3.ytimg.com/vi/2.jpg' alt='Ronny Diaz y el desarrollo web en MicroProyectos Sostenibles' />
 </a>
-<a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GITHUB y El Señor de los MicroProyectos Sostenibles - ver en Youtube" target='_blank'>
+<a href='https://www.youtube.com/watch?3' title="GITHUB y El Señor de los MicroProyectos Sostenibles - ver en Youtube" target='_blank'>
   <img width='32%' src='https://img.youtube.com/vi/3.jpg' alt='GITHUB y El Señor de los MicroProyectos Sostenibles' />
 </a>
-<a href='https://www.youtube.com/watch?v=-chk3tKvNLI' title="Setup para el Desarrollo de MicroProyectos Sostenibles y Web 2025 - ver en Youtube" target='_blank'>
+<a href='https://www.youtube.com/watch?4' title="Setup para el Desarrollo de MicroProyectos Sostenibles y Web 2025 - ver en Youtube" target='_blank'>
   <img width='32%' src='https://img.youtube.com/vi/4.jpg' alt='Setup para el Desarrollo de MicroProyectos Sostenibles y Web 2025' />
 </a>
-<a href='https://www.youtube.com/watch?v=WCUASu4V258' title="Analizando la metodologia de MicroProyectos Sostenibles Hardvard - ver en Youtube" target='_blank'>
+<a href='https://www.youtube.com/watch?5' title="Analizando la metodologia de MicroProyectos Sostenibles Hardvard - ver en Youtube" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/5.jpg' alt='Analizando la metodologia de MicroProyectos Sostenibles Hardvard' />
 </a>
-<a href='https://www.youtube.com/watch?v=P51PMs0sKys' title="Charlas de desarrollo de MicroProyectos Sostenibles con Código Bíblico - ver en Youtube" target='_blank'>
+<a href='https://www.youtube.com/watch?6' title="Charlas de desarrollo de MicroProyectos Sostenibles con Código Bíblico - ver en Youtube" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/6.jpg' alt='Charlas de desarrollo de MicroProyectos Sostenibles con Código Bíblico' />
 </a>
 
 
 ## 📝 Artículos de mi web [ronnydiazlpro/blog](https://ronnydiazlpro/blog/):
-- [Qué demandan las organizaciones financiadoras](https://eduardofierro.pro/blog/https://eduardofierro.pro/blog/que-demandan-las-empresas/)
+- [Qué demandan las organizaciones financiadoras](https://ronnydiazlpro/blog/https://eduardofierro.pro/blog/que-demandan-las-empresas/)
 - [Cómo iniciar tu propio Blog para dar a conocer tu Proyecto](https://ronnydiazlpro/blog/como-iniciar-tu-propio-blog/)
-- [Que se trabaja en MicroProyectos Sostenibles y Web. Nivel Junior](https://eduardofierro.pro/blog/que-se-trabaja-en-programacion-web/)
+- [Que se trabaja en MicroProyectos Sostenibles y Web. Nivel Junior](https://ronnydiazlpro/blog/que-se-trabaja-en-programacion-web/)
