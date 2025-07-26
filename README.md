@@ -10,8 +10,8 @@
 
 
 ## 👉 Sobre mí
-👉Soy Ronny Díaz, un profesor y desarrollador de proyectos agripercológicos familiares circulares, que trabaja en diferentes áreas como Educación, Ciencia y tecnología. 
-De día ayudo a diseñar el futuro de familias urbanas con anhelo rural, carentes de conocimientos técnicos, a elaborar su proyecto rural autosuficiente agripercológico familiar circular.
+👉Soy Ronny Díaz, un profesor y desarrollador de proyectos Agripermatecológicos familiares circulares, que trabaja en diferentes áreas como Educación, Ciencia y tecnología. 
+De día ayudo a diseñar el futuro de familias urbanas con anhelo rural, carentes de conocimientos técnicos, a elaborar su proyecto rural autosuficiente Agripermatecológico familiar circular.
 🌱 AGRIPERCOLÓGICOS- (A: Autosuficiencia + Agri: Agricultura, Tierra, Campo + Per: Permacultura, Agropecuaria + Cológicos: Agroecología, Sostenibilidad, Sustentabilidad, Sinérgica, Regenerativa, Tecnología).
 
 De noche me gusta crear contenidos sobre lo que hago por el día para familias en toda Hispanoamérica y así de alguna manera ayudar a revertir la situación del abandono de pueblos rurales, por falta de oportunidades. Una parte de mis ingresos los destino voluntariamente y como autogestión, junto con mi familia, a este proyecto.
